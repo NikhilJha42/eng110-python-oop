@@ -1,0 +1,5 @@
+New Game:
+
+1. HELLO: 7
+2. GOODBYE: 14
+Player 2 wins!
