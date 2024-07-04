@@ -1,4 +1,4 @@
-# eng110-python-oop
+# Object-oriented Programming in Python
 
 ## This is a repository created for learning OOP in Python.
 
